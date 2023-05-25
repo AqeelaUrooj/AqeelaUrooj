@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter Application Development**
 
-- 👯 I’m looking to collaborate on [Stocky Project(POS System)](https://hypebeastbaltics.com ,stock.teqprotech.com)
+- 👯 I’m looking to collaborate on [Stocky Project(POS System)](https://hypebeastbaltics.com ,https://stock.teqprotech.com)
 
 - 👨‍💻 All of my projects are available at [On Fiverr Portfolio: https://www.fiverr.com/aqeelaurooj](On Fiverr Portfolio: https://www.fiverr.com/aqeelaurooj)
 
