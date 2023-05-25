@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Stocky Project(POS System)](https://hypebeastbaltics.com ,https://stock.teqprotech.com)
 
-- 👨‍💻 All of my projects are available at [On Fiverr Portfolio: https://www.fiverr.com/aqeelaurooj](On Fiverr Portfolio: https://www.fiverr.com/aqeelaurooj)
+- 👨‍💻 All of my projects are available at (On Fiverr Portfolio: https://www.fiverr.com/aqeelaurooj)
 
 - 💬 Ask me about **Laravel, Webscraping, Artificial Intelligence, Flask , Django , CodeIgniter , Vue**
 
